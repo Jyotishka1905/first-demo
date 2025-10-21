@@ -1,4 +1,4 @@
 # first-demo
 This is my first git repository.
 <br>
-Author - Jyotishka De.
+Author = Jyotishka De.
